@@ -1,0 +1,50 @@
+body {
+	background-color: black;
+	color: #e0e0e0;
+		}
+h1 {
+	color: orangered;
+	text-align: center;
+}
+
+img {
+	width: 150px;
+}
+
+.container {
+	background-color: #4b0082;
+	 padding: 20px;
+    border-radius: 10px;
+
+}
+
+table {
+    background-color: #524649;
+    color: silver;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    color: white;
+}
+
+td {
+    color: white;
+}
+
+.a {
+    background-color: purple;
+}
+
+.b {
+    background-color: darkgreen;
+}
+
+.c {
+    background-color: red;
+}
+
+.d {
+    background-color: grey;
+}
